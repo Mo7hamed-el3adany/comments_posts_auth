@@ -1,4 +1,8 @@
-# comments_posts_auth
+## blogpost 
+
+#### comments , posts and auth
+
+ ###### features
  
   * authencation (login-register-logout)
   * each user can create his posts and outher users can comment on it .
