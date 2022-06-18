@@ -1,6 +1,6 @@
-## blogpost 
+### blog post 
 
-#### comments , posts and auth
+##### comments , posts and auth
 
  ###### features
  
